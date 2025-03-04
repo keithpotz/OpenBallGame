@@ -25,7 +25,7 @@ This is a simple OpenGL-based brick breaker game developed in C++. The game feat
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/keithpotz/OpenBallGame.git
    ```
 2. Install the necessary dependencies:
    - Ensure you have OpenGL development libraries installed.
